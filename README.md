@@ -25,11 +25,11 @@
 </p>
 <br>
 
-<h2 align="center">📬 How to reach me</h2>
+<h2 align="center">📬 How to reach me</h2> 
 </>
 <p align="center">
   <a href="mailto:ricardotonietto@ethereum.aleeas.com?subject=Hello%20Ricardo"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ricardo-t/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<!--   <a href="colocar link do linkedin aqui"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
     
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=xpeditus303.visitor-badge)
