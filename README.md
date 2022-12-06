@@ -28,8 +28,8 @@
 <h2>📬 How to reach me</h2>
 </>
     <p>ricardotonietto@ethereum.aleeas.com</p>
-
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=expeditus303&color=00cf0)
+    
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=xpeditus303.visitor-badge)
 
 
 <!---
