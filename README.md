@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=0d1117&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Ricardo+Tonietto" alt="Typing SVG" /></a>
 </p>
 
-<h2>📃 Github Stats</h2>
+<h2 align="center">📃 Github Stats</h2>
 
 
 <br/>
@@ -25,9 +25,12 @@
 </p>
 <br>
 
-<h2>📬 How to reach me</h2>
+<h2 align="center">📬 How to reach me</h2>
 </>
-    <p>ricardotonietto@ethereum.aleeas.com</p>
+<p align="center">
+  <a href="mailto:ricardotonietto@ethereum.aleeas.com?subject=Hello%20Ricardo"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ricardo-t/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
     
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=xpeditus303.visitor-badge)
 
