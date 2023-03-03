@@ -14,6 +14,7 @@
   </div>
   
   <p align="center">
+    <img src="https://img.shields.io/badge/node.js%20-%2344883E.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/react%20-323542.svg?&style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb%20-589636.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
