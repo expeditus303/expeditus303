@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <a href="#"><img alt="expeditus303's Github Stats" src="https://github-readme-stats.vercel.app/api?username=expeditus303&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="160"/></a>
+<!--     <a href="#"><img alt="expeditus303's Github Stats" src="https://github-readme-stats.vercel.app/api?username=expeditus303&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="160"/></a> -->
     <a href="#"><img alt="expeditus303's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expeditus303&langs_count=10&layout=compact&theme=dracula&hide_border=true&" height="160"/></a>
     <br/>
   </div>
