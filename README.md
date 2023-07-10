@@ -20,7 +20,8 @@
     <img src="https://img.shields.io/badge/postgresql%20-0064a5.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/prisma%20-%23323330.svg?&style=for-the-badge&logo=prisma&logoColor=white"/>
     <img src="https://img.shields.io/badge/mongodb%20-589636.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/react%20-323542.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/react%20-323542.svg?&style=for-the-badge&logo=react&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/styled--components%20-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
