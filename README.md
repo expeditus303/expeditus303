@@ -41,7 +41,7 @@
 
 <div align="center">
  <br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=xpeditus303.visitor-badge" alt="visitor badge">
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=xpeditus303.visitor-badge" alt="visitor badge"> -->
 <a href="https://wakatime.com/@1b8ae8b8-b480-46bf-9c98-2b05cbb5b8a5"><img src="https://wakatime.com/badge/user/1b8ae8b8-b480-46bf-9c98-2b05cbb5b8a5.svg" alt="Total time coded since Oct 17 2022" /></a>
 </div>
 
