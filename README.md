@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/node.js%20-%2344883E.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/postgresql%20-0064a5.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/prisma%20-%23323330.svg?&style=for-the-badge&logo=prisma&logoColor=white"/>
     <img src="https://img.shields.io/badge/mongodb%20-589636.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
