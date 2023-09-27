@@ -2,9 +2,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&background=0d1117&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Ricardo+Tonietto" alt="Typing SVG" /></a>
 </p> -->
 
-<h2 align="center">👋 Hello, World! </h2>
+<h2 align="center">Hello, World! 👋</h2>
 <p align="center">
-  I'm a Full-Stack Software Engineer from Brazil 🇧🇷 with an Italian 🇮🇹 passport, proficient in JavaScript, Node.js, TypeScript, SQL, NoSQL, and React. Currently diving into Java! 🚀
+  I am a Full-Stack Software Engineer from Brazil 🇧🇷, with an Italian 🇮🇹 passport, proficient in JavaScript, Node.js, TypeScript, SQL, NoSQL, and React. <br>
+  I have a genuine love for coding and problem-solving, which fuels my excitement and commitment to every project I take on.  <br>
+  Currently, I am diving into Java! 🚀
 </p>
 
 <div align="center">
@@ -26,6 +28,7 @@
     <img src="https://img.shields.io/badge/styled--components%20-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
