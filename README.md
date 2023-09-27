@@ -49,13 +49,8 @@
   <a href="https://www.linkedin.com/in/ricardo-tonietto/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
  <br>
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=xpeditus303.visitor-badge" alt="visitor badge"> -->
+<img src="https://visitor-badge.glitch.me/badge?page_id=xpeditus303.visitor-badge" alt="visitor badge"> 
 <a href="https://wakatime.com/@1b8ae8b8-b480-46bf-9c98-2b05cbb5b8a5"><img src="https://wakatime.com/badge/user/1b8ae8b8-b480-46bf-9c98-2b05cbb5b8a5.svg" alt="Total time coded since Oct 17 2022" /></a>
-</div>
-
-<!---
-expeditus303/expeditus303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
---->
+</div> -->
