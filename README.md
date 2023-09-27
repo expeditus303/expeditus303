@@ -14,6 +14,10 @@
 
 🚀 Currently, I am diving into Java! 
 
+🌿 Curiosities about me: I love hiking, immersing myself in nature, reading books of all kinds to enrich my worldview, and exploring the world whenever I can.
+
+🌐 I firmly believe the future will be fully decentralized.
+
 ❓ Ask me about anything! I don't know everything, but I'd love to know more.
 
 <br>
