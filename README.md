@@ -4,9 +4,16 @@
 
 <h2 align="center">Hello, World! 👋</h2>
 <p align="center">
-  I am a Full-Stack Software Engineer from Brazil 🇧🇷, with an Italian 🇮🇹 passport, proficient in JavaScript, Node.js, TypeScript, SQL, NoSQL, and React.
-  I have a genuine love for coding and problem-solving, which fuels my excitement and commitment to every project I take on.
-  Currently, I am diving into Java! 🚀
+💻 I'm a Full-Stack Software Engineer from Brazil 🇧🇷, with an Italian 🇮🇹 passport, proficient in JavaScript, Node.js, TypeScript, SQL, NoSQL, and React.
+
+🔍 I'm passionate about coding and problem-solving, which fuels my excitement and commitment to every project I take on. 
+
+🌟 I'm an open-source enthusiast. 
+
+🚀 Currently, I am diving into Java! 
+
+❓ Ask me about anything! I don't know everything, but I'd love to know more.
+
 </p>
 
 <div align="center">
