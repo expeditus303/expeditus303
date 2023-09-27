@@ -3,7 +3,9 @@
 </p> -->
 
 <h2 align="center">Hello, World! 👋</h2>
-<p align="center">
+
+<img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expeditus303&langs_count=10&layout=compact&theme=dracula&hide_border=true&" width="450" height="280"/>
+
 💻 I'm a Full-Stack Software Engineer from Brazil 🇧🇷, with an Italian 🇮🇹 passport, proficient in JavaScript, Node.js, TypeScript, SQL, NoSQL, and React.
 
 🔍 I'm passionate about coding and problem-solving, which fuels my excitement and commitment to every project I take on. 
@@ -13,12 +15,6 @@
 🚀 Currently, I am diving into Java! 
 
 ❓ Ask me about anything! I don't know everything, but I'd love to know more.
-
-</p>
-
-<div align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expeditus303&langs_count=10&layout=compact&theme=dracula&hide_border=true&" height="160"/>
-</div>
 
 <br>
 
