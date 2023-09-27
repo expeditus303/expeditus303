@@ -1,21 +1,18 @@
-<!-- <p align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=0d1117&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Ricardo+Tonietto" alt="Typing SVG" /></a>
-</p>-->
+<!-- <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&background=0d1117&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Ricardo+Tonietto" alt="Typing SVG" /></a>
+</p> -->
 
-<!-- <h2 align="center">📃 Github Stats</h2> -->
-
-
-<br/>
+<h2 align="center">👋 Hello, World! </h2>
+<p align="center">
+  I'm a Full-Stack Software Engineer proficient in JavaScript, Node.js, TypeScript, SQL, NoSQL, and React. Currently diving into Java! 🚀
+</p>
 
 <div align="center">
-<!--     <a href="#"><img alt="expeditus303's Github Stats" src="https://github-readme-stats.vercel.app/api?username=expeditus303&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="160"/></a> -->
-    <a href="#"><img alt="expeditus303's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expeditus303&langs_count=10&layout=compact&theme=dracula&hide_border=true&" height="160"/></a>
-    <br>
-    <br>
-  </div>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expeditus303&langs_count=10&layout=compact&theme=dracula&hide_border=true&" height="160"/>
+</div>
+
+<p align="center">
+   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/node.js%20-%2344883E.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
@@ -39,18 +36,9 @@
     <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
 </p>
-<br>
 
-
-<h2 align="center">📬 How to reach me</h2> 
-</>
+<h2 align="center">📬 Get in Touch</h2>
 <p align="center">
-  <a href="mailto:ricardotonietto@ethereum.aleeas.com?subject=Hello%20Ricardo"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ricardotonietto@ethereum.aleeas.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ricardo-tonietto/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-<!-- <div align="center">
- <br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=xpeditus303.visitor-badge" alt="visitor badge"> 
-<a href="https://wakatime.com/@1b8ae8b8-b480-46bf-9c98-2b05cbb5b8a5"><img src="https://wakatime.com/badge/user/1b8ae8b8-b480-46bf-9c98-2b05cbb5b8a5.svg" alt="Total time coded since Oct 17 2022" /></a>
-</div> -->
