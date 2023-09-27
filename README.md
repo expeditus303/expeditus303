@@ -4,7 +4,7 @@
 
 <h2 align="center">👋 Hello, World! </h2>
 <p align="center">
-  I'm a Full-Stack Software Engineer proficient in JavaScript, Node.js, TypeScript, SQL, NoSQL, and React. Currently diving into Java! 🚀
+  I'm a Full-Stack Software Engineer from Brazil 🇧🇷 with an Italian 🇮🇹 passport, proficient in JavaScript, Node.js, TypeScript, SQL, NoSQL, and React. Currently diving into Java! 🚀
 </p>
 
 <div align="center">
