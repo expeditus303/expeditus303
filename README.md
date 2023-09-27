@@ -4,6 +4,10 @@
 
 <h2 align="center">Hello, World! 👋</h2>
 
+
+<img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expeditus303&langs_count=10&layout=compact&theme=dracula&hide_border=true&" width="350" height="350"/>
+
+
 💻 I'm a Full-Stack Software Engineer from Brazil 🇧🇷, with an Italian 🇮🇹 passport, proficient in JavaScript, Node.js, TypeScript, SQL, NoSQL, and React.
 
 🔍 I'm passionate about coding and problem-solving, which fuels my excitement and commitment to every project I take on. 
@@ -17,12 +21,6 @@
 🌐 I firmly believe the future will be fully decentralized.
 
 ❓ Ask me about anything! I don't know everything, but I'd love to know more.
-
-<br>
-
-<div align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expeditus303&langs_count=10&layout=compact&theme=dracula&hide_border=true&" width="350"/>
-</div>
 
 <br>
 
