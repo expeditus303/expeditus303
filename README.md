@@ -3,13 +3,7 @@
 </p> -->
 
 <h2 align="center">Hello, World! 👋</h2>
-
-![](./profile-3d-contrib/profile-night-green.svg)
-
-
-<img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expeditus303&langs_count=10&layout=compact&theme=dracula&hide_border=true&" width="350" height="350"/>
-
-
+<p align="left">
 💻 I'm a Full-Stack Software Engineer from Brazil 🇧🇷, with an Italian 🇮🇹 passport, proficient in JavaScript, Node.js, TypeScript, SQL, NoSQL, and React.
 
 🔍 I'm passionate about coding and problem-solving, which fuels my excitement and commitment to every project I take on. 
@@ -22,10 +16,10 @@
 
 🌐 I firmly believe the future will be fully decentralized.
 
-❓ Ask me about anything! I don't know everything, but I'd love to know more.
+❓ Ask me about anything! I don't know everything, but I'd love to know more. 
+</p>
 
-<br>
-
+![Status](./profile-3d-contrib/profile-night-green.svg)
 <p align="center">
    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -52,8 +46,14 @@
     <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
     <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white">
-
 </p>
+
+<p align="center">
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expeditus303&langs_count=10&layout=compact&theme=dracula&hide_border=true&" width="350"/>
+</p>
+
+
+<br>
 
 <h2 align="center">📬 Get in Touch</h2>
 <p align="center">
