@@ -52,9 +52,6 @@
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expeditus303&langs_count=10&layout=compact&theme=dracula&hide_border=true&" width="350"/>
 </p>
 
-
-<br>
-
 <h2 align="center">📬 Get in Touch</h2>
 <p align="center">
   <a href="mailto:ricardotonietto@ethereum.aleeas.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
