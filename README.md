@@ -10,7 +10,7 @@
 
 🌟 I'm an open-source enthusiast. 
 
-🚀 Currently, I am diving into Java! 
+🚀 Currently, I'm diving into Java! 
 
 🌿 Curiosities about me: I love hiking, immersing myself in nature, reading books of all kinds to enrich my worldview, and exploring the world whenever I can.
 
