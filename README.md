@@ -4,19 +4,14 @@
 
 <h2 align="center">Hello, World! 👋</h2>
 <p align="left">
-💻 I'm a Full-Stack Software Engineer from Brazil 🇧🇷, with Italian 🇮🇹 blood, proficient in JavaScript, Node.js, TypeScript, SQL, NoSQL, and React.
+💻 Full-Stack Software Engineer
 
 🔍 I'm passionate about coding and problem-solving, which fuels my excitement and commitment to every project I take on. 
 
-🌟 I'm an open-source enthusiast. 
+🌟 Open-source enthusiast. 
 
-🚀 Currently, I'm diving into Java! 
+🌐 The future will be fully decentralized.
 
-🌿 Curiosities about me: I love hiking, immersing myself in nature, reading books of all kinds to enrich my worldview, and exploring the world whenever I can.
-
-🌐 I firmly believe the future will be fully decentralized.
-
-❓ Ask me about anything! I don't know everything, but I'd love to know more. 
 </p>
 
 ![Status](./profile-3d-contrib/profile-night-green.svg)
